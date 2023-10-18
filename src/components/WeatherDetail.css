@@ -1,0 +1,17 @@
+.bg-white{
+    background-color: white;
+}
+.degree-font-size
+{
+    font-size: 75px;
+    line-height: 80px;
+}
+
+.text-border-bottom{
+    border-bottom: 1px solid gainsboro;
+    margin-right: 10px;
+}
+.default-font-size
+{
+    font-size: 19px;
+}

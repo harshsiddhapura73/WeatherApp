@@ -1,0 +1,13 @@
+.pill-bg:active{
+    border-bottom: 4px solid orange !important;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    color: black !important;
+    background-color: gainsboro !important;   
+}
+
+.text-border-bottom{
+    border-bottom: 1px solid gray !important;
+    margin-right: 10px;
+}

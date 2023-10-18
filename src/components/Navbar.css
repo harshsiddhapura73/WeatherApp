@@ -1,0 +1,11 @@
+.text-white{
+    color: white !important;
+}
+.location-text-active:active{
+    color: orange;
+    background-color: white ;
+}
+
+.location-font-size{
+    font-size: 25px;
+}
